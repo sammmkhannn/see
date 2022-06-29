@@ -1,10 +1,10 @@
-#Hi folks!
+# Hi folks!
 
 
 This package going to be a substitute of console.log(). Don't need use this any more. 
 
 
-#Usage
+# Usage
 
 npm install see
 
