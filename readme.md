@@ -1,7 +1,7 @@
 # Hi folks!
 
 
-This package going to be a substitute of console.log(). Don't need use this any more. 
+This package going to be a substitute of console.log(). Don't need to use this any more. 
 
 
 # Usage
