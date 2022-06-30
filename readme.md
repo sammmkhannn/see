@@ -11,7 +11,7 @@ npm install see
 yarn add see
 
 
-import print from "see";
+import see from "see";
 
 
 see('hello,world!');
